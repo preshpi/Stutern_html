@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+    height:100vh;
+}
+
+main{
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+}
+
+.header{
+    font-size: 18px;
+}
+
+.first-text{
+    color:green;
+    font-size: 14px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.second-text{
+    font-size: 14px;
+    color:red;
+    border: 2px solid black;
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.third-text{
+    font-size: 14px;
+    color:blue;
+    border: 2px solid black;
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin: 10px;  
+}
