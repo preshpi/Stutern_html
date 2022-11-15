@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.main{
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    height:100vh;
+}
+
+h1{
+    font-size: 30px;
+    align-items: center;
+    color:red;
+    text-align:center;
+    margin-bottom: 20px;
+    padding: 20px;
+    justify-content: center;
+    place-items: center;
+}
+
+.likes{
+text-align: center;
+}
+
+#loves{
+    text-align: start;
+    background-color: aquamarine;
+}
+
+.dislike{
+    text-align: center;
+}
+
+#hate{
+    background-color: aquamarine;
+    text-align: start;
+}
+
+.like{
+    border-bottom: 2px solid red;
+}
+
+#love{
+    border-bottom: 2px solid purple;
+    padding:5px 5px;
+}
+
+.dis{
+    border-bottom: 2px solid red;
+}
+
+#hated{
+    border-bottom: 2px solid rgb(47, 30, 235); 
+    padding:5px 5px;
+}
